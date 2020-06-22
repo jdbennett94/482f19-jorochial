@@ -10,7 +10,6 @@ The goal of this project is to develop a cross platform auction and bid applicat
 # View the live development version of the site here: 
 [jorochial.cs.loyola.edu](http://jorochial.cs.loyola.edu/html/index.php)
 
-
 # Documentation
 
 [Software Specification Doc](https://docs.google.com/document/d/1FqCSX0mkYGmzBUIB0VnIK-IrNWB5HTUl3e_dMB7CK28/edit?usp=sharing)
